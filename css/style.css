@@ -1,0 +1,111 @@
+body{
+	font-family: "Roboto", "Arimo";
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: rgba(29,14,0,0.7) !important;
+}
+footer{
+	background-color: #432A1C;
+	padding: 25px 0;
+	border-top: 4px solid #432a1c;
+	color: #fff;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+.carousel-caption {
+    position: absolute;
+    z-index: 1;
+    display:table;
+    width:50%;
+    height:10%;
+}
+
+.absolute-div {
+    position: absolute;
+      top: 0;
+      left: 330px;
+      right: 0;
+      bottom: 320px;
+}
+
+.carousel-caption h2 {
+    display:table-cell;
+    vertical-align: middle;
+    text-align:center;
+    background-color: rgba(0,0,0,0.70);
+    font-weight: 300;
+
+}
+
+.carousel-caption h2 span {
+    font-weight: 700;
+}
+
+.item {
+    position:relative;
+}
+
+#our-specialty{
+    background-color: #432a1c;
+    padding: 30px 10px;
+    border-color: #C38346;
+}
+.infospecialty h3{
+    font-family: Roboto;
+    color: #fff;
+    font-weight: 400;
+}
+.infospecialty span{
+    font-family: Roboto;
+    font-weight: 500;
+    color: #C38346;
+}
+.infospecialty p{
+    color: #fff;
+    padding: 10px 0px;
+}
+.details-btn{
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #C38346;
+    padding: 6px 15px;
+}
+.roasts{
+    background-color: #fff;
+    border-radius: 100%;
+    padding: 50px;
+}
+#visitors{
+    background-image: url("../img/gallery3.jpg");
+    background-repeat: no-repeat;
+	background-position: left;
+	background-size: cover;
+}
+    .title{
+        color: #fff;
+        font-weight: 300;
+        text-align: center;
+        padding: 40px;
+    }
+    .title span{
+        color: #fff;
+        font-weight: 500;
+    }
+.visitor{
+    color: #fff;
+}
+.visitor h3{
+    font-weight: 400;
+}
+
+
+
+
+
+
+
